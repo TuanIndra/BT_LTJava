@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
 
+      <module fileurl="file://$PROJECT_DIR$/.idea/ktjava.iml" filepath="$PROJECT_DIR$/.idea/ktjava.iml" />
+
+
       <module fileurl="file://$PROJECT_DIR$/.idea/BaiTap_Nhom7.iml" filepath="$PROJECT_DIR$/.idea/BaiTap_Nhom7.iml" />
+
 
     </modules>
   </component>
