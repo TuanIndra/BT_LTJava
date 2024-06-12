@@ -8,6 +8,7 @@ public class BtNhom7Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BtNhom7Application.class, args);
+
 	}
 
 }
